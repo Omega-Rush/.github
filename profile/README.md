@@ -15,5 +15,8 @@
 </ul>
 
 <h2>🚀 Projects</h2>
+<img src="https://github.com/Omega-Rush/.github/blob/main/profile/materials/img/taurun-logo.jpg" alt="Imagem da logo do Taurun" align="center">
+<p>The <strong>Taurun</strong> project is a sports-focused e-commerce inspired by the Centauro clothing store. In this project, we applied full web development skills, with the main challenges of improving the API to better meet customer consumption and optimizing the interfaces. In addition, we integrated the CRM to improve final communication with the customer, guaranteeing an efficient shopping experience.</p>
+
 <h2>👤 Members</h2>
 
